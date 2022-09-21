@@ -1,13 +1,16 @@
+/* General layout */
 * {
     box-sizing: border-box;
     padding: 0;
     margin:0;
 }
 
+/* The main background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header attributes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -73,7 +76,7 @@ p {
    
 }
 
-/* benefits container aligned to same length/height as side containers */
+/* benefits container */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,6 +104,7 @@ p {
     max-width: 150px;
 }
 
+/* Content container */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +123,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer layout and font styling */
 .footer {
     padding: 30px;
     clear: both;
