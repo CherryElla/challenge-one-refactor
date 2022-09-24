@@ -53,7 +53,7 @@ p {
     font-size: 16px;
 }
 
- /* Background image link and attributes */
+ /* Section element with background image */
 .digital-marketing-meeting { 
     height: 800px;
     width: 100%;
@@ -72,11 +72,10 @@ p {
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
-   
+    margin-left: 20px;   
 }
 
-/* benefits container */
+/* Aside element */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,7 +103,7 @@ p {
     max-width: 150px;
 }
 
-/* Content container */
+/* Content element */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -123,7 +122,7 @@ p {
     font-size: 36px;
 }
 
-/* Footer layout and font styling */
+/* Footer element */
 .footer {
     padding: 30px;
     clear: both;
